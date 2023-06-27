@@ -10,5 +10,4 @@
   Hence ,we  found that the accuracy of the using LogisticRegression is 84.7% or 85%. 
 5. References:: 
   i.  Kaggle
-  
   ii. Some notes of the ML course
