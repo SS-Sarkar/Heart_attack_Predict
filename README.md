@@ -1,4 +1,4 @@
- Heart Attack Prediction Algorithm 🩺💓
+ Heart Attack Prediction Algorithm 
 
 This project addresses the critical task of predicting and displaying the risk of a heart attack based on basic information such as age, sex, chest pain type (cp), and other relevant factors. By employing the powerful LogisticRegression model, we have developed an algorithm that provides accurate predictions for this life-threatening condition.
 
